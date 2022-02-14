@@ -15,7 +15,7 @@ int graph1[GSIZE][GSIZE] =
 	{INF,   0,   7, INF, INF, INF,   2, INF, INF},//2
 	{  2,   7,   0, INF,  10,   8, INF, INF, INF},//3
 	{INF, INF, INF,   0, INF, INF, INF, INF,   3},//4
-	{INF, INF,  10, INF,   0, INF, INF,   6, INF},//5
+	{INF, INF,  10, INF,   0, INF, INF,   6, INF},//5151
 	{INF, INF,   8, INF, INF,   0, INF, INF, INF},//6
 	{INF,   2, INF, INF, INF, INF,   0, INF,  11},//7
 	{INF, INF, INF, INF,   6, INF, INF,   0, INF},//8
